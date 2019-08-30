@@ -1,0 +1,11 @@
+.content-panel{
+  width: 300px;
+  display: block;
+  overflow-x: auto;
+}
+
+.child-panel {
+  width: 700px;
+  height: 40px;
+  background: gray;
+}
